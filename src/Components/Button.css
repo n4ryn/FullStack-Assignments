@@ -1,0 +1,16 @@
+p{
+    font-size: 3vh;
+    color: #012030;
+}
+
+button {
+    margin: 16px 15px 0px 15px;
+    padding: 16px 30px;
+    color: #DAFDBA;
+    background-color: #13678A;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+  }
