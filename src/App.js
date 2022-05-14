@@ -3,7 +3,7 @@ import Button from "./Components/Button";
 import './App.css';
 
 function App() {
-  
+    // window.location.reload(false);
     const [first, setFirst] = useState(0)
     const [second, setSecond] = useState(0)
     
